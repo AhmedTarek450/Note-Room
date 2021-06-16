@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="type_your_note">Type your Note</string>
+    <string name="type_yourtitle">Type yourTitle</string>
+    <string name="update">Update</string>
+    <string name="save_note">save_note</string>
+    <string name="no_notes_exist">No Notes Exist</string>
+    <string name="no_notes_available">No Notes Available</string>
+</resources>
